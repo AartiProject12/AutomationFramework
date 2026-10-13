@@ -49,3 +49,5 @@ export class LoginPage {
         await expect(this.portfolioValueCard).toBeVisible();
     }
 }
+
+// this is framework page object model for login page, we can add more methods to this class as per the requirement.
